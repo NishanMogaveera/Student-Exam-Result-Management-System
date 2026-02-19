@@ -32,6 +32,8 @@ This system allows administrators to:
 5. Open: http://localhost/student_result
 
 # 📸 Screenshots
+
+
 a) Home Page-
 <img width="759" height="334" alt="image" src="https://github.com/user-attachments/assets/9af6982b-2a23-4e23-9224-6c239ce98774" />
 
